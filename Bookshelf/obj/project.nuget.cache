@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+hBbtBEMMT/JD/ILR3Tf0PF1+MecZhOVA3UWaM2g0lBkrRsG48CPtIDAIRnpc5K5V0jyJbbTsCIlZHdiXsAIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozima\\source\\repos\\OOPLab3\\Bookshelf\\Bookshelf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ozima\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.22\\microsoft.netcore.app.host.win-x86.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
